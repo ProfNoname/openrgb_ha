@@ -62,3 +62,4 @@ This integration can only be configuration through the UI (Configuration->Integr
 
 - This custom component is a follow-up to https://github.com/home-assistant/core/pull/38309 by @bahorn, which didn't make it to HA Core.  
 - This integration uses openrgb-python, by @jath03
+- This fork uses a more recent version of openrgb-python than the one by @ThanhCN0
